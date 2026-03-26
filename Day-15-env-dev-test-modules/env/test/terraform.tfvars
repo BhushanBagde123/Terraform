@@ -1,0 +1,7 @@
+vpc_cidr = "10.0.0.0/16"
+subnet_cidr = "10.0.1.0/24"
+ami_id = ""
+instance_type = "t3.micro"
+availability_zone = "ap-south-1a"
+env ="test"
+region = "ap-south-2"
